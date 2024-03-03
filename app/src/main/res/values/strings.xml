@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstApplication_Java</string>
+    <string name="calculator">Calculator</string>
 </resources>
